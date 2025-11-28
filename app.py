@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 import time
-from streamlit_extras.animate import animate
+
 
 st.set_page_config(page_title="Animated Calculator", page_icon="🧮", layout="centered")
 
